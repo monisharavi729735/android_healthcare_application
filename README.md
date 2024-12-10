@@ -44,9 +44,6 @@ A modern healthcare mobile application designed to simplify access to essential 
 - Manage orders and view order history.
 - Stay updated with real-time order tracking.
 
-### **4. Notification System**
-- Alerts for order updates, test results, and health reminders.
-
 ---
 
 ## 💻 Development Platform & Tools
